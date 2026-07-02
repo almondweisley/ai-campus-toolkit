@@ -1,14 +1,13 @@
 # Study Toolkit — BSc Computer Science, Semester 2.1
 
-A set of tutor prompts for my semester. Paste the Master Context Block at the top of any numbered prompt, fill the brackets, and attach the relevant course material.
 
 The tutor's job is to help me understand, plan, quiz, and improve my own work. The code, the writing, and the design decisions stay mine.
 
----
+
 
 ## Master Context Block (paste at the top of any prompt below)
 
-About me: I am a second-year, Semester 2.1 BSc Computer Science student at Kenyatta University. My background in this unit is [none / weak / moderate / strong]. The unit is [SCO200 Object Oriented Programming II / SCO202 Event-Driven Programming / SCO204 Data Structures and Algorithms / SCO206 Database Systems / SCO208 Object Oriented Analysis and Design / SCO212 Probability and Statistics / SMA 200 Calculus II].
+About me: I am a second-year, Semester 2.1 BSc Computer Science student at Kenyatta University. My background in this unit is none. The unit is SCO208 Object Oriented Analysis and Design.
 
 How I learn best: Give me a concrete computer-science example before the abstract definition. Use plain, simple English and define every technical term the first time it appears. Break ideas into small steps and check I have understood before moving on.
 
@@ -16,7 +15,6 @@ Visuals: Where a diagram helps, add a simple labelled illustration beside the ex
 
 Ground rule: Do not do my graded work for me. Help me understand, plan, and improve my own work so I stay within Kenyatta University's academic integrity policy. Tell me when you fill a gap with general knowledge rather than my attached materials.
 
----
 
 ## 1. Simplified notes from material
 
